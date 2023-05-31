@@ -1,0 +1,47 @@
+.sidebar-left {
+    background-color: #fff;
+    width: 80%;
+    height: 56vh;
+}
+.sidebar-menu-list {
+    background-color: none;
+}
+.list-group-messages {
+    background-color: #fff;
+}
+[dir] .list-group-item {
+    padding: 0.75rem 1.25rem;
+    background-color: #fff;
+    border: none;
+    border-left: 2px solid #fff;
+}
+[dir] .list-group-item.active {
+    color: #7367f0;
+    background-color: #fff;
+    border: none;
+    border-left: 2px solid #7367f0;
+}
+
+.ps {
+    scroll-behavior: none;
+    overflow: inherit !important;
+    overflow-anchor: none;
+    -ms-overflow-style: none;
+    touch-action: auto;
+    -ms-touch-action: auto;
+}
+.ps__rail-x{
+    display: none;
+}
+.ps__thumb-x{
+    display: none;
+}
+.fhHjwo .kioYox{
+    max-width: 20%;
+    min-width: 100px;
+}
+/* Lead Table */
+#row-5 > #cell-1-5 {
+    background-color: rgb(255, 255, 255);
+    color: #7367f0;
+}
